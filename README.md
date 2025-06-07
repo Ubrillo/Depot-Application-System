@@ -3,7 +3,7 @@ This application demonstrates a Depot Application for parcel collection includin
 
 ### Design Architecture
 * Database Layer - This layers stores data files that can read and written to.
-* Logic Layer - This is the middle layer that links  the Database Layer and the Presentation Layer.
+* Logic Layer - This is the middle layer that links  the Database Layer and the Presentation Layer. It processess requests from the Presentation Layer.
 * Presentation Layer - This layer  displays the graphical interface and sends command to the logic layer for processing.
 * Main - This contain the driver program that can be used to launch the entire application.
 
