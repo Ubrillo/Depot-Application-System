@@ -7,5 +7,3 @@ This application demonstrates a Depot Application for parcel collection includin
 * Presentation Layer - This layer  displays the graphical interface and sends command to the logic layer for processing.
 * Main - This contain the driver program that can be used to launch the entire application.
 
-### Documentation
-* The documentation report of this project including the Use-Case Digram, Class Diagram, Three Tier architectural design, Software design pattern can be found in the documentation directory.
